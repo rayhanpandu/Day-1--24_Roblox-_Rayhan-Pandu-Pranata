@@ -28,13 +28,13 @@ Empat profil lulusan:
 - PL04 Profesional Kolaboratif
 
 *Kurikulum Merdeka, MBKM dan MSIB*
-> MBKM memberi hak belajar di luar prodi lewat 8 bentuk kegiatan, dengan konversi sekitar 20 SKS per semester.
-> MSIB adalah salah satu jalurnya, terdiri dari magang bersertifikat dan studi independen bersertifikat.
-> 3 metode pembelajaran:
+1. MBKM memberi hak belajar di luar prodi lewat 8 bentuk kegiatan, dengan konversi sekitar 20 SKS per semester.
+2. MSIB adalah salah satu jalurnya, terdiri dari magang bersertifikat dan studi independen bersertifikat.
+3. tiga metode pembelajaran:
 - PjBL menghasilkan karya nyata.
 - PBL memecahkan masalah terbuka.
 - CBL menganalisis kasus yang sudah tersedia, dengan 5 langkah dari pelajari kasus sampai presentasi dan refleksi.
-> Alur mengikuti program: cek PDDikti, buat akun, pilih program, daftar dan seleksi, lalu jalani dan konversi SKS. Disertai tips menyiapkan CV, portofolio, dan konsultasi dengan dosen.
+4. Alur mengikuti program: cek PDDikti, buat akun, pilih program, daftar dan seleksi, lalu jalani dan konversi SKS. Disertai tips menyiapkan CV, portofolio, dan konsultasi dengan dosen.
 
 **Poin-poin penting**
 1. Mengenal Kurikulum OBE, yaitu kurikulum yang berfokus pada kemampuan dan hasil belajar yang harus dicapai mahasiswa.
