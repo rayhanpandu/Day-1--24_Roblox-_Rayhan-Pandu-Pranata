@@ -10,9 +10,10 @@ Repository ini dibuat sebagai tempat penyimpanan dokumentasi dan hasil kegiatan 
 - Menjadi tempat untuk mempelajari kembali materi yang telah disampaikan.
 - Melatih penggunaan Git dan GitHub dalam mengelola repository.
 
-**Informasi kegiatan workshop:**\
+**Informasi kegiatan workshop:**
 
 **Rangkuman materi**
+
 *Rencana Strategis JTIK 2026–2030:*
 - Visi: menjadi jurusan bertaraf internasional untuk mendukung daya saing bangsa di bidang informatika dan komputer. internasional, berdaya saing, dan berdampak.
 - Misi: pendidikan vokasi berkarakter, riset dan inovasi, serta tata kelola digital.
@@ -38,6 +39,7 @@ Empat profil lulusan:
 4. Alur mengikuti program: cek PDDikti, buat akun, pilih program, daftar dan seleksi, lalu jalani dan konversi SKS. Disertai tips menyiapkan CV, portofolio, dan konsultasi dengan dosen.
 
 **Poin-poin penting**
+
 1. Mengenal Kurikulum OBE, yaitu kurikulum yang berfokus pada kemampuan dan hasil belajar yang harus dicapai mahasiswa.
 2. Memahami profil lulusan Teknik Informatika, seperti System Analyst, Software Developer, Data Analyst, dan IT Support.
 3. Mengenal MBKM, yaitu program yang memberikan kesempatan kepada mahasiswa untuk belajar di luar program studi.
@@ -47,4 +49,5 @@ Empat profil lulusan:
 7. Memahami pentingnya cara belajar yang efektif, seperti mengulang materi secara berkala, menguji pemahaman diri sendiri, dan menjelaskan materi menggunakan kata-kata sendiri.
 
 **Pendapat pribadi tentang Day 1 Proyek Workshop**
+
 Day 1 Proyek Workshop cukup menarik dan menambah pengetahuan baru, terutama tentang penggunaan Git dan GitHub. Dengan adanya workshop ini, saya mulai memahami cara mengelola repository dan menyimpan proyek. Meskipun masih ada beberapa hal yang membingungkan, kegiatan ini cukup bermanfaat dan menambah pengalaman saya.
