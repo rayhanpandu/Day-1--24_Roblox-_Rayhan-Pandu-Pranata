@@ -1,8 +1,10 @@
 **Nama Lengkap:** 
+
 Rayhan Pandu Pranata
 
 **Deskripsi Repository:**
-Repository ini dibuat sebagai tempat penyimpanan dokumentasi dan hasil kegiatan workshop. Di dalam repository ini terdapat berbagai file, catatan, serta dokumentasi yang berkaitan dengan materi dan aktivitas selama workshop berlangsung.
+
+Repository ini dibuat sebagai tempat penyimpanan dokumentasi dan hasil kegiatan workshop. Di dalam repository ini terdapat catatan dan dokumentasi yang berkaitan dengan materi dan aktivitas selama workshop berlangsung.
 
 **Tujuan Repository:**
 - Mendokumentasikan seluruh kegiatan workshop.
