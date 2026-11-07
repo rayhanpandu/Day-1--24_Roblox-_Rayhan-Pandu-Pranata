@@ -31,7 +31,7 @@ Empat profil lulusan:
 - PL03 Penerap Teknologi
 - PL04 Profesional Kolaboratif
 
-*Kurikulum Merdeka, MBKM dan MSIB*
+*Kurikulum Merdeka, MBKM dan MSIB:*
 
 1. MBKM memberi hak belajar di luar prodi lewat 8 bentuk kegiatan, dengan konversi sekitar 20 SKS per semester.
 2. MSIB adalah salah satu jalurnya, terdiri dari magang bersertifikat dan studi independen bersertifikat.
@@ -41,7 +41,7 @@ Empat profil lulusan:
 - CBL menganalisis kasus yang sudah tersedia, dengan 5 langkah dari pelajari kasus sampai presentasi dan refleksi.
 4. Alur mengikuti program: cek PDDikti, buat akun, pilih program, daftar dan seleksi, lalu jalani dan konversi SKS. Disertai tips menyiapkan CV, portofolio, dan konsultasi dengan dosen.
 
-**Poin-poin penting**
+**Poin-poin penting:**
 
 1. Mengenal Kurikulum OBE, yaitu kurikulum yang berfokus pada kemampuan dan hasil belajar yang harus dicapai mahasiswa.
 2. Memahami profil lulusan Teknik Informatika, seperti System Analyst, Software Developer, Data Analyst, dan IT Support.
@@ -51,6 +51,6 @@ Empat profil lulusan:
 6. Mengetahui pentingnya keterampilan komunikasi, kerja sama tim, berpikir kritis, dan kemampuan memecahkan masalah.
 7. Memahami pentingnya cara belajar yang efektif, seperti mengulang materi secara berkala, menguji pemahaman diri sendiri, dan menjelaskan materi menggunakan kata-kata sendiri.
 
-**Pendapat pribadi tentang Day 1 Proyek Workshop**
+**Pendapat pribadi tentang Day 1 Proyek Workshop:**
 
 Day 1 Proyek Workshop cukup menarik dan menambah pengetahuan baru, terutama tentang penggunaan Git dan GitHub. Dengan adanya workshop ini, saya mulai memahami cara mengelola repository dan menyimpan proyek. Meskipun masih ada beberapa hal yang membingungkan, kegiatan ini cukup bermanfaat dan menambah pengalaman saya.
