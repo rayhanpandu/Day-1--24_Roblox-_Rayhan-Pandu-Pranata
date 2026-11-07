@@ -10,7 +10,8 @@ Repository ini dibuat sebagai tempat penyimpanan dokumentasi dan hasil kegiatan 
 - Menjadi tempat untuk mempelajari kembali materi yang telah disampaikan.
 - Melatih penggunaan Git dan GitHub dalam mengelola repository.
 
-**Informasi kegiatan workshop:**
+**Informasi kegiatan workshop:**\
+
 **Rangkuman materi**
 *Rencana Strategis JTIK 2026–2030:*
 - Visi: menjadi jurusan bertaraf internasional untuk mendukung daya saing bangsa di bidang informatika dan komputer. internasional, berdaya saing, dan berdampak.
