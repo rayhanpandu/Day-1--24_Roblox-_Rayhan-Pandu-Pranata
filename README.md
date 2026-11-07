@@ -15,6 +15,7 @@ Repository ini dibuat sebagai tempat penyimpanan dokumentasi dan hasil kegiatan 
 **Rangkuman materi**
 
 *Rencana Strategis JTIK 2026–2030:*
+
 - Visi: menjadi jurusan bertaraf internasional untuk mendukung daya saing bangsa di bidang informatika dan komputer. internasional, berdaya saing, dan berdampak.
 - Misi: pendidikan vokasi berkarakter, riset dan inovasi, serta tata kelola digital.
 - Lima agenda pengembangan: penguatan internal TIK, kerja sama institusi dan industri, pengembangan SDM, sarana prasarana, dan inkubator bisnis TIK.
@@ -22,6 +23,7 @@ Repository ini dibuat sebagai tempat penyimpanan dokumentasi dan hasil kegiatan 
 - Kemitraan: CCIT, MSU, Dinkes Depok, Pemkot Depok, Agate, Cisco, Huawei, Oracle, LZPU/Hopu, QCU, dan PT Argios.
 
 *Kurikulum OBE 2026 D4 Teknik Informatika:*
+
 Kurikulum disusun mundur: profil lulusan, profesi, CPL, lalu mata kuliah. Hasilnya 49 mata kuliah, 145 SKS, dan 8 semester. Lulusan bergelar S.Tr.Kom dengan KKNI level 6.
 Empat profil lulusan:
 - PL01 Analis Solusi
@@ -30,6 +32,7 @@ Empat profil lulusan:
 - PL04 Profesional Kolaboratif
 
 *Kurikulum Merdeka, MBKM dan MSIB*
+
 1. MBKM memberi hak belajar di luar prodi lewat 8 bentuk kegiatan, dengan konversi sekitar 20 SKS per semester.
 2. MSIB adalah salah satu jalurnya, terdiri dari magang bersertifikat dan studi independen bersertifikat.
 3. tiga metode pembelajaran:
